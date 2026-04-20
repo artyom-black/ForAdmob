@@ -1,4 +1,3 @@
-# app-ads.txt
 # AdMob app-ads.txt
 
 Google AdMob verification file.
